@@ -11,10 +11,10 @@
 
 
 
-#Welcome to my Learning Journal
+###Welcome to my Learning Journal
 A "growth mindset", unlike a fixed mindset, allows for expansion of pathways towards a goal. It also allows for different options should better ones arise and ways to correct oneself if the path trails off or a mistake is made. A fixed mindset is more rigid and difficult to navigate and improve upon.
 
-#My Link
+###My Link
 https://silicompvalley.github.io
 
 3 reminders for me to go through this fruitfully 1: I must never give up. There is always a way 2: It feels hard? It's SUPPOSED to be hard! 3: Not smart? Surprisingly, the man who came up with the IQ test himself understood that intelligence can be increased
@@ -26,7 +26,7 @@ Why is coding so great?
   1. And not just in "tech" companies
 2. It is an advantageious tool for thinking about things in life. A logical mindset
 
-#About Me
+###About Me
 I'm from the San Francisco Bay Area and new to Seattle. Wow, Seattle is so close to me (in a travel/leisure sense) and I've *never* visited! I didn't know just how much of a major tourist destination Seattle is! So many places I tried to check out for housing were booked. The air and atmosphere is fresh and I really like the nice and the bustling downtown area. San Francisco may have a lot of nice destinations, but its downtown is kind of ugly and the streets are so dirty.
 (415) 819-9054   ext
 
