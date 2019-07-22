@@ -21,7 +21,7 @@ Why is coding so great?
 2. It is an advantageious tool for thinking about things in life. A logical mindset
 
 I'm from the San Francisco Bay Area and new to Seattle. Wow, Seattle is so close to me (in a travel/leisure sense) and I've *never* visited! I didn't know just how much of a major tourist destination Seattle is! So many places I tried to check out for housing were booked. The air and atmosphere is fresh and I really like the nice and the bustling downtown area. San Francisco may have a lot of nice destinations, but its downtown is kind of ugly and the streets are so dirty.
-(415) 819-9054
+(415) 819-9054   ext
 
 
 
